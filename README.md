@@ -10,7 +10,9 @@ Wikimedia Foundation
 Project Manager:
 
 Irene Mary Vinu : Motion Designer, Back-end Developer
+
 Seunghyeon  Yeom  : Web Designer, Front-end Developer
+
 Siddhant Dimri  : Back-end Developer
 
 ## Programs and Softwares
