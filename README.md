@@ -27,7 +27,7 @@ Developing - Visual Studio Code, Git bash, Github, Heroku.
 - Week 4 (Jan 31 - Feb 6)
 : Finising the website design&Logo design, Starting developing (Skeletal developing with HTML, CSS and JS), Planning marketing, Creating a storyline for an advertisements.
 
-: The first checkpoint on Feb 4th.
+- The first checkpoint on Feb 4th.
 
 - Week 5 (Feb 7 - 13)
 : Finishing a style guide, Modifying the web design, Changing/adding some codes, Modifying a storyline of the video, Gathering footage for the video, Creating video.
@@ -41,9 +41,18 @@ Developing - Visual Studio Code, Git bash, Github, Heroku.
 - Week 8 (Feb 28 - Mar 6)
 : Going over the entire project, Finishing the video.
 
-: The second checkpoint on Mar 4th.
+- The second checkpoint on Mar 4th.
 
 - Week 9, Week 10, Week 11 (Mar 7 - Mar 27)
 : Going over the codes, Changing some codes (Focusing on CSS and JS), Modifying/finshing the social media ads, Modifying/finshing the video ads, Modifying/finshing the website content, Updating style guide.
 
 - The last checkpoint on Apr 1st.
+
+## MIT License
+Copyright ©2022, Seunghyeon Yeom, Irene Mary Vinu, Siddhant Dimri
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
