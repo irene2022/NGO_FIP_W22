@@ -17,6 +17,7 @@ Siddhant Dimri  : Back-end Developer
 
 ## Programs and Softwares
 Designing - Adobe Photoshop, Illustrator, XD, After Effects.
+
 Developing - Visual Studio Code, Git bash, Github, Heroku.
 
 ## Weekly Plans
