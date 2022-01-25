@@ -7,7 +7,7 @@ Wikimedia Foundation
 (Reference: Transparent Hands https://www.transparenthands.org/top-20-international-ngos-in-the-world/)
 
 ## FIP Team Members
-Project Manager:
+Project Manager: Irene Mary Vinu
 
 Irene Mary Vinu : Motion Designer, Back-end Developer
 
