@@ -25,10 +25,10 @@ Developing - Visual Studio Code, Git bash, Github, Heroku.
 : Deciding and dividing the roles: Designer & Developer. Planning the schedule. Discussing which NGO we are going to work on. [DONE]
 
 - Week 3 (Jan 24 - 30)
-: Topic research. Sketching ideas & Mindmapping. Start designing works (Logo sketch & design, Website sketch & design). Creat a style guide.
+: Topic research. Sketching ideas & Mindmapping. Start designing works (Logo sketch & design, Website sketch & design). Creat a style guide. [DONE]
 
 - Week 4 (Jan 31 - Feb 6)
-: Finishing the website design & Logo design. Start development (skeletal developing with HTML, CSS and JS). Plan marketing. Create a storyline for the advertisements.
+: Finishing the website design & Logo design. Start development (skeletal developing with HTML, CSS and JS). Plan marketing. Create a storyline for the advertisements. [DONE]
 
 - The first checkpoint on Feb 4th.
 
