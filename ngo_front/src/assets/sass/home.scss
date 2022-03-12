@@ -1,0 +1,51 @@
+@media only screen and (max-width: 428px) {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    main {
+        font-family: 'Roboto';
+        color: #111111;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .pc {
+        display: none
+    }
+
+    .topBanner {
+        width: 480px;
+        position: relative;
+    }
+
+    .top-banner-box p {
+        font-size: 30px;
+        font-weight: 900;
+        color: white;
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 7%;
+    }
+    
+    .upcomingTitle hr {
+        display: none;
+    }
+
+    .upcomingTitle {
+        display: block;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 900;
+        line-height: 45px;
+        margin: 70px auto 30px auto;
+    }
+}
+
+.mobileSelectBox {
+    margin: 0 auto;
+}

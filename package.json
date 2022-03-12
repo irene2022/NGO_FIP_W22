@@ -1,0 +1,27 @@
+{
+  "name": "ngo_fip_w22",
+  "version": "1.0.0",
+  "description": "Wikimedia Foundation:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irene2022/NGO_FIP_W22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irene2022/NGO_FIP_W22/issues"
+  },
+  "homepage": "https://github.com/irene2022/NGO_FIP_W22#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "watchify": "^4.0.0"
+  }
+}

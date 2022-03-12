@@ -1,0 +1,24 @@
+module.exports = {
+  root: true,
+  env: {
+    node: true
+  },
+  extends: [
+    'plugin:vue/vue3-essential',
+    // '@vue/standard'
+    'eslint:recommended'
+  ],
+  parserOptions: {
+    parser: '@babel/eslint-parser',
+    ecmaVersion: 8,
+    requireConfigFile: false
+    // parser: '@babel/eslint-parser',
+    // ecmaVersion: '8',
+    // requireConfigFile: 'false'
+  },
+  rules: {
+    'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
+    'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
+    'vue/multi-word-component-names': 'off'
+  }
+}
