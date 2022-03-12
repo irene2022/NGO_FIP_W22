@@ -30,19 +30,25 @@ Developing - Visual Studio Code, Git bash, Github, Heroku.
 - Week 4 (Jan 31 - Feb 6)
 : Finishing the website design & Logo design. Start development (skeletal developing with HTML, CSS and JS). Plan marketing. Create a storyline for the advertisements. [DONE]
 
-- The first checkpoint on Feb 4th.
+- The first checkpoint on Feb 4th. [DONE]
 
 - Week 5 (Feb 7 - 13)
-: Finishing a style guide. Modify the web design. Changing/adding some codes. Modifying the storyline for the video. Gathering footage for the video. 
+: Finishing a style guide. Modify the web design. Changing/adding some codes. Modifying the storyline for the video. Gathering footage for the video.
+
+: [DONE] Done with the web design.
+: [IN PROGRESS] Creating a style guide, Coding the front-end development part. Still adding/changing more detailed and precise information of the campaigns.
 
 - Week 6 (Feb 14 - 20)
 : Changing/adding some codes. Discussion about the contest/events. Discuss and create social media ad mockups. Create ad video.
+: [IN PROGRESS]
 
 - Week 7 (Feb 21 - 27)
 : Changing/adding some codes (Focusing on JS parts). Discuss and Create contest/events mockups. Create social media ads from the improved mockups. Finish the website content. Update style guide.
+: [IN PROGRESS]
 
 - Week 8 (Feb 28 - Mar 6)
 : Go over the entire project. Finish the video.
+: [IN PROGRESS]
 
 - The second checkpoint on Mar 4th.
 
