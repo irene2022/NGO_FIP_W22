@@ -7,9 +7,8 @@ Who hasn’t used Wikipedia at least once in their life? This and many other pro
 (Reference: Transparent Hands https://www.transparenthands.org/top-20-international-ngos-in-the-world/)
 
 ## FIP Team Members
-Project Manager: Irene Mary Vinu
 
-Irene Mary Vinu : Motion Designer, Back-end Developer
+Irene Mary Vinu : Campaign ads, Back-end Developer
 
 Seunghyeon  Yeom  : Web Designer, Front-end Developer
 
