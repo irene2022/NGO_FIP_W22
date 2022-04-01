@@ -1,0 +1,109 @@
+body {
+    font-family: 'Roboto';
+}
+
+.container {
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 10px;
+    background: rgb(163,201,76);
+    background: linear-gradient(0deg, rgba(163,201,76,1) 0%, rgba(159,214,153,1) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    text-align: center;
+    color: #fff;
+    padding: 4%;
+}
+
+.heading h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+
+
+.form-container {
+   
+    padding: 20px;
+    border-radius: 2px;
+    
+}
+
+.input-row {
+    margin-bottom: 20px;
+}
+
+.input-row label {
+    color: #fff;
+    font-style: bold;
+    font-weight: 600;
+}
+
+.input-field {
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px;
+    border: #e0dfdf 1px solid;
+    box-sizing: border-box;
+    margin-top: 2px;
+}
+
+.span-field {
+    font: Arial;
+    font-size: small;
+    text-decoration: none;
+}
+
+.submitButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-weight: lighter;
+}
+
+.btn-submit {
+    margin: 0 auto;
+    padding: 10px 30px;
+    color: rgba(163,201,76,1);
+    border: #fff.2px solid;
+    background: #fff;
+    font-size: 0.6em;
+    font-weight: 700;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.errorMessage {
+    background-color: #e66262;
+    border: #AA4502 1px solid;
+    padding: 5px 10px;
+    color: #FFFFFF;
+    border-radius: 3px;
+}
+
+.successMessage {
+    background-color: #9fd2a1;
+    border: #91bf93 1px solid;
+    padding: 5px 10px;
+    color: #3d503d;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.info {
+    font-size: .8em;
+    color: #e66262;
+    letter-spacing: 2px;
+    padding-left: 5px;
+}
+
+textarea{
+    height: 200px;
+}
