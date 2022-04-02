@@ -8,7 +8,7 @@ Who hasn’t used Wikipedia at least once in their life? This and many other pro
 
 ## FIP Team Members
 
-Irene Mary Vinu : Campaign ads, Back-end Developer
+Irene Mary Vinu : Campaign ads
 
 Seunghyeon  Yeom  : Web Designer, Front-end Developer
 
